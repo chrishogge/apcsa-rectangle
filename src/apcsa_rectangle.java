@@ -16,7 +16,8 @@ public class apcsa_rectangle {
         double rectArea = rectLength * rectWidth;
 
         System.out.println("\nThe area of a " + String.format("%.1f",rectLength)
-         + "-by-" + String.format("%.1f",rectWidth) + " rectangle is " + String.format("%.1f",rectArea));
+         + "-by-" + String.format("%.1f",rectWidth) + " rectangle is " +
+         String.format("%.1f.",rectArea));
 
 
 
