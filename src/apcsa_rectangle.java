@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class apcsarectangle {
+public class apcsa_rectangle {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
